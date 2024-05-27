@@ -2,6 +2,10 @@
 
 # Movie Recommendation System app
 
+
+https://github.com/mohamedelsayed10/Movie-Recommendation-System-app/assets/87568101/94afba34-955c-4a6c-9b40-0a973cf4ee7e
+
+
 ## Overview
 
 This project aims to create an interactive movie recommendation system app using the MovieLens dataset (ml-latest-small) and potentially integrating another dataset for additional context and challenges. The dashboard leverages advanced recommender models like Neural Collaborative Filtering to provide personalized movie recommendations and Item Similarity:Computes similarities dynamically when a movie is selected on the Item Page.
