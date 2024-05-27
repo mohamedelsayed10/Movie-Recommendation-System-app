@@ -1,0 +1,17 @@
+body {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-shadow: 2px 2px 8px #FFFFFF;
+}
+
+.neon-effect {
+    color: #e50914;
+    text-shadow: 
+        0 0 5px #e50914,
+        0 0 10px #e50914,
+        0 0 20px #e50914,
+        0 0 40px #e50914,
+        0 0 80px #e50914;
+}
